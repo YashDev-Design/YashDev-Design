@@ -5,7 +5,7 @@
 
 ## ✦ About
 
-I design digital experiences that put users first—from interface flows and design systems to brand-consistent visual assets. My work spans UI/UX, front-end implementation with React and Vue, and SEO-driven content strategy. I've contributed to search optimization at Google and created brand assets for L&T Metro Rail.
+I design digital experiences that put users first—from interface flows and design systems to brand-consistent visual assets. My work spans product and UI/UX design, visual branding, and front-end implementation with React. I designed e-commerce product experiences at Flipkart, created digital communications for Auburn University at Montgomery, and have freelanced in brand and web design since 2020. I've graduated with a Master's in Computer Science from Auburn University at Montgomery.
 
 ## ✦ Selected work
 
@@ -32,14 +32,14 @@ I design digital experiences that put users first—from interface flows and des
 
 | Period | Role | Company | Highlights |
 |--------|------|---------|------------|
-| *2020 – 2023* | Assistant Social Media & Graphic Designer | Auburn University at Montgomery | Designed audience-centered digital experiences and promotional creatives that enhanced engagement and strengthened brand identity |
-| *2020 – 2023* | Visual Design Intern | L&T Metro Rail, Hyderabad | Created brand-consistent assets using typography, layout systems, and visual hierarchy across digital and print |
-| *2020 – 2023* | Search Engine Optimization Intern | Google @Hyderabad | Improved content discoverability through keyword research and on-page optimization that aligned search behavior with user needs |
+| *Jan 2025 – Jul 2026* | Graphic & Social Media Digital Designer | Auburn University at Montgomery | Turned promotional briefs into social media posts, promotional graphics, and digital announcements with a consistent visual identity across university channels |
+| *Jul 2022 – Jul 2024* | Product Designer | Flipkart, India | Mapped e-commerce journeys across discovery, listings, product details, and cart; designed high-fidelity Figma screens, responsive layouts, and prototypes through developer handoff |
+| *Dec 2020 – Present* | Graphic & Web Designer | Freelance | Visual identities, social media creatives, and marketing collateral, plus wireframes and responsive website concepts for client projects |
 
 ## ✦ Credentials
 
-- **Master's** in Computer Science, Auburn University Montgomery, USA · *2024 – 2026* · GPA **3.5 / 4.0**
-- **Bachelor's** in Computer Science, Aurora University, India · *2019 – 2023* · GPA **7.0 / 9.0**
+- **Master of Science** in Computer Science, Auburn University at Montgomery, USA · *Aug 2024 – Aug 2026* · **Graduated** · GPA **3.5 / 4.0**
+- **Bachelor of Technology** in Computer Science Engineering, Aurora's Technological and Research Institute, India · *Aug 2019 – May 2023* · GPA **7.0 / 9.0**
 
 ## ✦ Toolbox
 
